@@ -11,12 +11,12 @@
 }
 
 // Главный класс, контейнер для контента. Ширина 1140px, оступа сверху нет, по ширине размещается равноудаленно от боковых сторон
-.container{
+.container {
     width: 1140px;
     margin: 0 auto;
 }
 
-body{
+body {
     background-color: $background-color;
 }
 
@@ -24,7 +24,6 @@ body{
     width: 60px;
     height: 3px;
     background-color: $main-color;
-    margin-top: 25px;
     margin: 25px auto 0 auto;
 }
 
